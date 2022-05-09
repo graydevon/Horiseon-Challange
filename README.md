@@ -20,4 +20,4 @@ THEN I find a concise, descriptive title "
 Using the html file and css files I then corrected the coding to make sure that the following website had and showed that.
 
 
-[Screen Shot 2022-05-02 at 11.42.35 PM.pdf](https://github.com/graydevon/Horiseon-Challange-/files/8608290/Screen.Shot.2022-05-02.at.11.42.35.PM.pdf)
+
